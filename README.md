@@ -1,0 +1,2 @@
+# translatord
+s
